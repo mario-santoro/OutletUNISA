@@ -4,7 +4,7 @@ Target of this software is make an E-commerce for clothing, this is last version
 2. supplier, he have all functionalty about user and more. He can insert a product for the sell and manage update the repository
 3. admin, he manage all accounts, delete users and suppliers.
 We use for Front-End: HTML, CSS, JavaScript, AJAX, JQuery, framework Bootstrap.
-format for data exchange client server: JSON and XML.
+Format for data exchange client server: JSON and XML.
 DBMS: MySQL.
 Web Server: Apache TOMCAT. 
 Application Server: JBOSS.
